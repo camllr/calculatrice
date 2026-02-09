@@ -20,9 +20,9 @@ Calculatrice responsive réalisée en **HTML, CSS et JavaScript vanilla** (sans 
 
 ## Structure du projet
 
-js-calculator/
-├── index.html # Structure (écran + boutons)
-├── styles.css # Layout Grid/Flexbox + responsive
+js-calculator/  
+├── index.html # Structure (écran + boutons)  
+├── styles.css # Layout Grid/Flexbox + responsive  
 └── script.js # Logique JS (sans eval())
 
 ---
