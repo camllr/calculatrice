@@ -27,6 +27,15 @@ js-calculator/
 
 ---
 
+## Évolutions prévues
+
+- Support clavier (chiffres + Entrée)
+- Historique des calculs
+- Boutons % et +/-
+- Tests unitaires (Jest)
+
+---
+
 ## Compétences techniques
 
 **JavaScript** :
