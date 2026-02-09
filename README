@@ -1,0 +1,26 @@
+# Calculatrice JavaScript (HTML/CSS/JS)
+
+Cette calculatrice est un projet front-end réalisé en **HTML, CSS et JavaScript vanilla**.  
+L’objectif est de montrer ma capacité à manipuler le DOM, gérer l’état d’une application et construire une interface responsive propre.
+
+---
+
+## Ce que fait le projet
+
+- Affiche une calculatrice fonctionnelle directement dans le navigateur.
+- Gère les opérations de base : **addition, soustraction, multiplication, division**.
+- Affiche **l’expression complète en cours** (`1 + 2`, pas seulement le nombre courant).
+- Gère les erreurs simples, notamment la **division par zéro** (message dédié).
+- Supporte les **nombres décimaux**.
+- Interface **responsive** et centrée, utilisable sur desktop comme sur mobile.
+
+---
+
+## Structure du projet
+
+```text
+js-calculator/
+├── index.html    # Structure de la calculatrice (écran + boutons)
+├── styles.css    # Mise en forme, layout grid, responsive
+└── script.js     # Logique de la calculatrice (JS pur)
+```
